@@ -23,6 +23,7 @@ class _KrediDropDownWidgetState extends State<KrediDropDownWidget> {
         borderRadius: Sabitler.borderRadius,
       ),
       child: DropdownButton<double>(
+        dropdownColor: Colors.lightBlue.shade900,
         value: secilenKrediDeger,
         hint: Text(
           "Kredi",

@@ -24,6 +24,7 @@ class _HarfDropDownWidgetState extends State<HarfDropDownWidget> {
         borderRadius: Sabitler.borderRadius,
       ),
       child: DropdownButton<double>(
+        dropdownColor: Colors.lightBlue.shade900,
         value: secilenHarfDeger,
         elevation: 16,
         iconEnabledColor: Sabitler.anaRenk,
