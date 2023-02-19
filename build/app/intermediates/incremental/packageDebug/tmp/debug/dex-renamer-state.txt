@@ -1,0 +1,4 @@
+#Sun Feb 19 16:32:46 TRT 2023
+base.0=D\:\\flutter_apps\\dynamic_average_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
